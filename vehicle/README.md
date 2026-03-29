@@ -1,0 +1,5 @@
+这是作者第一周的学习成果
+car data.csv是数据集
+vehicle_train.ipynb这个是训练的代码
+image的文件夹是一些代码中的一些图片，有三张没有放进去
+archive的文件夹是kaggle数据集的一些其他数据（无用）
